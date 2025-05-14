@@ -1,3 +1,10 @@
+# تهيئة مستودع Git محلي
+git init
+
+# إضافة جميع الملفات للمرحلة
+git add .
+
+# عمل commit للتغييرات
 import React, { useState, useEffect } from 'react';
 import {
   Dialog,
